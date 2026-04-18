@@ -24,7 +24,7 @@ if (!isset($_SESSION['email'])) {
 
 <div class="nav-overlay">
 
-<a href="dashboard.php" class="logo">
+<a href="landing.html" class="logo">
   <h1>  Ruhh<span>.</span> </h1>
 </a>
 
@@ -32,7 +32,7 @@ if (!isset($_SESSION['email'])) {
     <div class="nav-item home"><a href="#">HOME</a></div>
     <div class="nav-item community-post"><a href="#">COMMUNITY POST</a></div>
     <div class="nav-item AI-chat"><a href="#">AI CHAT</a></div>
-    <div class="nav-item random-qoute"><a href="#">Qoute</a></div>
+    <div class="nav-item random-qoute"><a href="#">Quote</a></div>
     <div class="nav-item blogs"><a href="#">BLOGS</a></div>
 <div class="nav-item journal"><a href="journal.php">JOURNAL</a></div>
     
